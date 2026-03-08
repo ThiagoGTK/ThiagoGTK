@@ -65,18 +65,6 @@ Minha abordagem combina:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
-
-</div>
-
----
-
 ## 🤝 Vamos Conectar!
 
 Tenho interesse em:
